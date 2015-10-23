@@ -1,0 +1,22 @@
+{
+  "name": "pn375",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "agentkeepalive": "^2.0.3",
+    "denodeify": "^1.2.1",
+    "pubnub": "^3.7.15"
+  },
+  "devDependencies": {
+    "babelify": "^6.4.0",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
